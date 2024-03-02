@@ -11,6 +11,7 @@ body{
 	align-items:center;
 }
 .book{
+	background-color:#ffffff;
 	display:flex;
 	flex-direction:column;
 	align-content:center;
@@ -25,6 +26,7 @@ body{
 	font-family: Arial, Helvetica, sans-serif;
 }
 .price{
+	background-color:#ffffff;
 	text-align:center;
 	width:60vw;
 	height:2vh;
